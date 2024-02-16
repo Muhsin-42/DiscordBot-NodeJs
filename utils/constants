@@ -1,0 +1,4 @@
+import "dotenv/config";
+
+export const DISCORD_ACCESS_TOKEN = process.env.DISCORD_ACCESS_TOKEN;
+export const CLIENT_ID = process.env.CLIENT_ID;
